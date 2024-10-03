@@ -5,6 +5,8 @@
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/
 - MLops Tool - https://evidentlyai.com/
+- MongoDB: https://account/mongodb.com/account/login
+
 
 ## Git commands
 

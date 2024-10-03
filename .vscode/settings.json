@@ -4,6 +4,7 @@
         "amibhodai",
         "easyvisa",
         "filedir",
+        "levelname",
         "pymongo"
     ]
 }
